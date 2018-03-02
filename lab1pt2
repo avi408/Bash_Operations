@@ -1,0 +1,35 @@
+Script started on Thu 19 Jan 2017 09:29:10 AM PST
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ date +%T
+09:29:28
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ date +%a[Ka[KA%w
+Thursday4
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ cal
+    January 2017      
+Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7  
+ 8  9 10 11 12 13 14  
+15 16 17 18 [7m19[27m 20 21  
+22 23 24 25 26 27 28  
+29 30 31              
+                      
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ cal 1 2017
+    January 2017      
+Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7  
+ 8  9 10 11 12 13 14  
+15 16 17 18 [7m19[27m 20 21  
+22 23 24 25 26 27 28  
+29 30 31              
+                      
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ cal 9 1752
+   September 1752     
+Su Mo Tu We Th Fr Sa  
+       1  2 14 15 16  
+17 18 19 20 21 22 23  
+24 25 26 27 28 29 30  
+                      
+                      
+                      
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ exit
+
+Script done on Thu 19 Jan 2017 09:32:37 AM PST

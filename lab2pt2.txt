@@ -1,0 +1,14 @@
+Script started on Thu 26 Jan 2017 04:37:15 PM PST
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ date +%T
+16:37:35
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ uname
+Linux
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ whoami
+ag
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ w
+ 16:37:54 up  5:39,  1 user,  load average: 0.10, 0.15, 0.10
+USER     TTY      FROM             LOGIN@   IDLE   JCPU   PCPU WHAT
+ag       tty7     :0               10:58    5:39m  6:39   0.21s /sbin/upstart -
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ exit
+
+Script done on Thu 26 Jan 2017 04:37:57 PM PST

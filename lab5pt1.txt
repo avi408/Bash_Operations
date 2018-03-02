@@ -1,0 +1,23 @@
+Script started on Thu 16 Mar 2017 10:07:37 AM PDT
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ talk fred
+[?1049h[1;24r(B[m[4l[?7h[H[2J[13d(0[0mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq(B[12;1H(0[0m(B[H[No connection yet][12d
+[5G[ Error on read from talk daemon: Connection refused. Press any key... ][H[Checking for invitation on caller's machine][13;5H(0[0mqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqqq(B[A(0[0m(B[24d[24;1H[?1049l[?1l>]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$     [K[K[K[Kmesg
+is y
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ mesg n
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ mesg
+is n
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ echo $SHELL
+/bin/bash
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ csh
+% echo $shell
+/bin/csh
+% logout
+Not a login shell.
+% exit
+% exit
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ exec 3>&1 1>mk[Kykbd.txt
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ ls -la
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ exec 1>&3 3>&-
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on Thu 16 Mar 2017 10:24:19 AM PDT

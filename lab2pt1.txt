@@ -1,0 +1,44 @@
+Script started on Thu 02 Feb 2017 12:39:33 PM PST
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ stty -a
+speed 38400 baud; rows 24; columns 80; line = 0;
+intr = ^C; quit = ^\; erase = ^?; kill = ^U; eof = ^D; eol = <undef>;
+eol2 = <undef>; swtch = <undef>; start = ^Q; stop = ^S; susp = ^Z; rprnt = ^R;
+werase = ^W; lnext = ^V; discard = ^O; min = 1; time = 0;
+-parenb -parodd -cmspar cs8 -hupcl -cstopb cread -clocal -crtscts
+-ignbrk -brkint -ignpar -parmrk -inpck -istrip -inlcr -igncr icrnl ixon -ixoff
+-iuclc -ixany -imaxbel iutf8
+opost -olcuc -ocrnl onlcr -onocr -onlret -ofill -ofdel nl0 cr0 tab0 bs0 vt0 ff0
+isig icanon iexten echo echoe echok -echonl -noflsh -xcase -tostop -echoprt
+echoctl echoke -flusho -extproc
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ tty
+/dev/pts/17
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ echo "101*54.2-317/47"|bc
+5468.2
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ echo "obase=8;64"|bc[K[Kbc
+100
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ echo Hello World!
+Hello World!
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ stty r[Kerase '^e'
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ stty
+speed 38400 baud; line = 0;
+erase = ^E;
+-brkint -imaxbel iutf8
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ stty erase ^?
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ stty
+speed 38400 baud; line = 0;
+-brkint -imaxbel iutf8
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ fire[K[K[K[Kksh
+$ ps
+  PID TTY          TIME CMD
+20758 pts/17   00:00:00 bash
+20863 pts/17   00:00:00 ksh
+20865 pts/17   00:00:00 ps
+$ kill -9 20863
+Killed
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ ps
+  PID TTY          TIME CMD
+20758 pts/17   00:00:00 bash
+20866 pts/17   00:00:00 ps
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ exit
+
+Script done on Thu 02 Feb 2017 12:45:01 PM PST

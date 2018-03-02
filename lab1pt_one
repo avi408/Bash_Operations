@@ -1,0 +1,10 @@
+Script started on Sat 14 Jan 2017 07:35:41 AM PST
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ date
+Sat Jan 14 07:35:45 PST 2017
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ whoami
+ag
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ who
+ag       tty7         2017-01-14 07:19 (:0)
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework/unix[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework/unix[00m$ exit
+
+Script done on Sat 14 Jan 2017 07:36:11 AM PST

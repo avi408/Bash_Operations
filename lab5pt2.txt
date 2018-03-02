@@ -1,0 +1,46 @@
+Script started on Thu 16 Mar 2017 10:00:19 AM PDT
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ a. echo “April Showers, May Flowers” > May2015;   cal 5 2015  >> May2015[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho “April Showers, May Flowers” > May2015; 
+[1P[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho “April Showers, May Flowers” > May2015;  ca[1P[A]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ [Cecho “April Showers, May Flowers” > May2015;  cal[1P[A]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ 
+
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ more may2015[K[K[K[K[K[K[KMay2015
+“April Showers, May Flowers”
+      May 2015        
+Su Mo Tu We Th Fr Sa  
+                1  2  
+ 3  4  5  6  7  8  9  
+10 11 12 13 14 15 16  
+17 18 19 20 21 22 23  
+24 25 26 27 28 29 30  
+31                    
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ a. (echo “April Showers, May Flowers”; cal 5 201 5) > May2015[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C(echo “April Showers, May Flowers”; cal 5 2015)[1P[A]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ [C[C(echo “April Showers, May Flowers”; cal 5 2015) [1P[A]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ [C(echo “April Showers, May Flowers”; cal 5 2015) >[1P May2015[A]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ 
+
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ more [K[K[K[K[K(echo “April Showers, May Flowers”; cal 5 2015) >> May2015[A]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ more May2015[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+“April Showers, May Flowers”
+      May 2015        
+Su Mo Tu We Th Fr Sa  
+                1  2  
+ 3  4  5  6  7  8  9  
+10 11 12 13 14 15 16  
+17 18 19 20 21 22 23  
+24 25 26 27 28 29 30  
+31                    
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ a. cp file1 tempfile && echo “Copy successful”[1P[1P[1P
+“Copy successful”
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ b. cp nofile tempfile || echo “Copy failed”[1P[1P[1P
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ a. alias lndir=’ls –la’ | more[1P[1P[1P
+bash: alias: –la’: not found
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ alias lndir=’ls –la’ | more[C[1P[1@'[C[1P[1@'
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ lndir
+usage: lndir [-silent] [-ignorelinks] [-withrevinfo] fromdir [todir]
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ unalias lndir
+bash: unalias: lndir: not found
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ echo $PS1
+\[\e]0;\u@\h: \w\a\]${debian_chroot:+($debian_chroot)}\[\033[01;32m\]\u@\h\[\033[00m\]:\[\033[01;34m\]\w\[\033[00m\]\$
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ echo $SHELL
+/bin/bash
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ echo $HOME
+/home/ag
+]0;ag@ag-ThinkPad-W550s: ~/Desktop[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop[00m$ exit
+
+Script done on Thu 16 Mar 2017 10:04:59 AM PDT

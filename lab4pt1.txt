@@ -1,0 +1,1553 @@
+Script started on Wed 01 Mar 2017 08:44:19 AM PST
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework[00m$ mkdir letters
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework[00m$ mkdir reports
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework[00m$ mkdir assignments
+]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework[00m$ clear
+[3;J[H[2J]0;ag@ag-ThinkPad-W550s: ~/Desktop/homework[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/Desktop/homework[00m$ cd ~
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ script2~[K[K[K[K[K[K[K[Kscript lab4pt1.txt
+Script started, file is lab4pt1.txt
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mkdir letters
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mkdir reports
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mkdir assignments
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mv reports letters
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mv assignments letters
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ ls letters
+[0m[01;34massignments[0m  [01;34mreports[0m
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ cd letters
+]0;ag@ag-ThinkPad-W550s: ~/letters[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/letters[00m$ mkdir mkdir friendly[K[K[K[K[K[K[K[K[K[K[K[K[K[Kfriendly
+]0;ag@ag-ThinkPad-W550s: ~/letters[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/letters[00m$ mkdir formal
+]0;ag@ag-ThinkPad-W550s: ~/letters[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/letters[00m$ exit
+Script done, file is lab4pt1.txt
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ rm lab4pt1.txt 
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ 
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ cd ~
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ script lab4pt1.txt
+Script started, file is lab4pt1.txt
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mkdir letters
+mkdir: cannot create directory ‘letters’: File exists
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ exit
+Script done, file is lab4pt1.txt
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ rm -r letters
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ rm lab4pt1.txt 
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ sc[K[Kclear
+[3;J[H[2J]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ script lab4pt1.txt
+Script started, file is lab4pt1.txt
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mkdir letters
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mkdir reports
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ mkdir assignments
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ cd letters
+]0;ag@ag-ThinkPad-W550s: ~/letters[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/letters[00m$ mkdir friendly
+]0;ag@ag-ThinkPad-W550s: ~/letters[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/letters[00m$ mkdir formal
+]0;ag@ag-ThinkPad-W550s: ~/letters[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/letters[00m$ cd /~/reports
+bash: cd: /~/reports: No such file or directory
+]0;ag@ag-ThinkPad-W550s: ~/letters[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/letters[00m$ cd /~/reports[C[1P~/reports
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ mkdir personal
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ mkdir business
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ rm dir [K[K[K[K[Kdir personal business
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ mkdir personal business school
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ ls reports[K[K[K[K[K[K[K
+[0m[01;34mbusiness[0m  [01;34mpersonal[0m  [01;34mschool[0m
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ mkdir UNIX [K[K[K[K[K~/assignments/UNIX
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ mkdir ~/assignments/UNIX/HWs
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ mkdir ~/assignments/UNIX/HWs[K[K[KProjects
+]0;ag@ag-ThinkPad-W550s: ~/reports[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~/reports[00m$ cd ~
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ ls -R
+.:
+[0m[01;34massignments[0m         Lab2_CIS056.pdf               [01;34mPublic[0m
+bluetooth.ods       lab4pt1.txt                   [01;34mPycharmProjects[0m
+bug report          [01;34mletters[0m                       python
+CLASS.txt           mark                          python_class
+count1.py           [01;34mMetadata[0m                      [01;34mreports[0m
+demo.py             [01;34mMusic[0m                         sample
+[01;34mDesktop[0m             Outline-Rama.odt              [01;34mTemplates[0m
+[01;34mDocuments[0m           Parmila.docx                  Testpaln_foothill.ods
+[01;34mDownloads[0m           Parmila.odt                   Testpaln_twitter.ods
+ESSAY.odt           phnoprati                     typescript
+examples.desktop    [01;34mPictures[0m                      untitled_0.odt
+google.html         [01;36mPlayOnLinux's virtual drives[0m  Untitled 1.odt
+hi.txt              Prati.odt                     Untitled Document 1.txt
+hs_err_pid4296.log  [01;35mpreview.jpg[0m                   [01;34mVideos[0m
+[01;34mIndex[0m               [01;35mpreview-micro.jpg[0m             [01;34mworkspace[0m
+[01;34mkdenlive[0m            [01;35mpreview-web.jpg[0m
+
+./assignments:
+[01;34mUNIX[0m
+
+./assignments/UNIX:
+[01;34mHWs[0m  [01;34mProjects[0m
+
+./assignments/UNIX/HWs:
+
+./assignments/UNIX/Projects:
+
+./Desktop:
+Abhishek_Part1_step23.docx  [01;34mlab[0m          [01;34mMID_TERM[0m           test
+[01;35mActive_Dir.png[0m              [01;34mlab05[0m        new                touch
+[01;34mgoogle-python-exercises[0m     [01;34mlab2[0m         Nimona_essay.odt   [01;34mtouchhere[0m
+hi.txt                      lab3pt1.txt  [01;31mPart3_step10.zip[0m   [01;36mtouchLINK[0m
+[01;34mhomework[0m                    lab3pt2.txt  read_hw.odt        [01;35mWhatwasscanned.png[0m
+[01;35mHowtocorrectthis.png[0m        Lab4.pdf     [01;35mResultdetails.png[0m  Yoga.docx
+hw.txt                      [01;34mMidterm[0m      [01;34mSampledir[0m          Yoga.odt
+
+./Desktop/google-python-exercises:
+[01;34mbabynames[0m  [01;34mbasic[0m  [01;34mcopyspecial[0m  [01;32mhello.py[0m  LICENSE.txt  [01;34mlogpuzzle[0m  NOTICE.txt
+
+./Desktop/google-python-exercises/babynames:
+baby1990.html  baby1996.html  baby2002.html  baby2008.html
+baby1992.html  baby1998.html  baby2004.html  [01;32mbabynames.py[0m
+baby1994.html  baby2000.html  baby2006.html  [01;34msolution[0m
+
+./Desktop/google-python-exercises/babynames/solution:
+[01;32mbabynames.py[0m
+
+./Desktop/google-python-exercises/basic:
+alice.txt  [01;32mlist2.py[0m  small.txt  [01;32mstring1.py[0m  [01;32mwordcount.py[0m
+[01;32mlist1.py[0m   [01;32mmimic.py[0m  [01;34msolution[0m   [01;32mstring2.py[0m
+
+./Desktop/google-python-exercises/basic/solution:
+[01;32mlist1.py[0m  [01;32mlist2.py[0m  [01;32mmimic.py[0m  [01;32mstring1.py[0m  [01;32mstring2.py[0m  [01;32mwordcount.py[0m
+
+./Desktop/google-python-exercises/copyspecial:
+[01;32mcopyspecial.py[0m  [01;34msolution[0m  xyz__hello__.txt  [01;35mzz__something__.jpg[0m
+
+./Desktop/google-python-exercises/copyspecial/solution:
+[01;32mcopyspecial.py[0m
+
+./Desktop/google-python-exercises/logpuzzle:
+animal_code.google.com  [01;32mlogpuzzle.py[0m  place_code.google.com  [01;34msolution[0m
+
+./Desktop/google-python-exercises/logpuzzle/solution:
+[01;32mlogpuzzle.py[0m
+
+./Desktop/homework:
+card.py   [01;34mjava[0m         [01;34mprati[0m       [01;34mpython[0m   [01;34mreadwrite[0m  [01;34munix[0m
+[01;34mFinal QA[0m  lab4pt1.txt  py-1-25-17  [01;34mQA_test[0m  test.py
+
+./Desktop/homework/Final QA:
+Bug Report_ ebay.docx      ebay_testplan.ods  qa_final.txt
+Bug Report_ foothill.docx  mid_term_QA.odt    Testpaln_foothill2.ods
+
+./Desktop/homework/java:
+avi.txt              [01;31mLab_4.zip[0m  Mileage.class      readwrite_test.java
+DiceSimulation.java  Lab_5      Mileage.java       StatsDemo.java
+Geometry.java        [01;31mLab5.zip[0m   [01;32mNumbers.txt[0m        TelevisionDemo.java
+[01;31mLab_02.zip[0m           Lab_6      NumericTypes.java  Television.java
+[01;31mLab_3.zip[0m            [01;31mLab_6.zip[0m  PizzaOrder.java    TestArg.class
+Lab_4                [01;34mLab7[0m       PizzaOrder.txt     TestArg.java
+
+./Desktop/homework/java/Lab7:
+AverageDriver.java  Classics.txt      [01;31mLab_7.zip[0m  Song.java
+Average.java        CompactDisc.java  Score.txt
+
+./Desktop/homework/prati:
+ESSAY.docx  EWRT 211 W17 Essay 1 Checklist  (1).pdf  Outline.docx
+
+./Desktop/homework/python:
+Assignment3.py  Employee.py     lab01.pdf  Q5.py    Q9.py
+card.py         exe.py          Q10.py     Q6hw.py  spell.py
+count1.py       hello_world.py  Q3.py      Q7.py    while.py
+count.py        Homework.py     Q4.py      Q8.py
+
+./Desktop/homework/QA_test:
+A1 team milestone.docx        [01;35mScreenshot from 2016-10-22 10-39-47.png[0m
+Bug Report.docx               Testpaln_foothill1.ods
+concurrency test cases .ods   Testpaln_foothill_final.ods
+concurrency test cases .xlsx  Testpaln_foothill.ods
+facebook_login.ods            Testpaln_twitter2.ods
+facebook_login.xlsx           Testpaln_twitter.ods
+Quiz1.odt
+
+./Desktop/homework/readwrite:
+[01;34mbin[0m  [01;34msrc[0m
+
+./Desktop/homework/readwrite/bin:
+readwrite_test.class
+
+./Desktop/homework/readwrite/src:
+readwrite_test.java
+
+./Desktop/homework/unix:
+helpme  Jan23  lab1pt2  lab1pt_one  lab1redo  lab2pt1.txt  lab2pt2.txt
+
+./Desktop/lab:
+[01;34mbabynames[0m  [01;34mcopyspecial[0m  [01;34mDesktop[0m    [01;34mhello[0m   [01;32mhello.py[0m     [01;32mlist1.py[0m   NOTICE.txt
+[01;34mbasic[0m      demo.py      fixme.txt  [01;34mhello2[0m  LICENSE.txt  [01;34mlogpuzzle[0m
+
+./Desktop/lab/babynames:
+baby1990.html  baby1996.html  baby2002.html  baby2008.html
+baby1992.html  baby1998.html  baby2004.html  [01;32mbabynames.py[0m
+baby1994.html  baby2000.html  baby2006.html  [01;34msolution[0m
+
+./Desktop/lab/babynames/solution:
+[01;32mbabynames.py[0m
+
+./Desktop/lab/basic:
+alice.txt  [01;32mlist2.py[0m  small.txt  [01;32mstring1.py[0m  [01;32mwordcount.py[0m
+[01;32mlist1.py[0m   [01;32mmimic.py[0m  [01;34msolution[0m   [01;32mstring2.py[0m
+
+./Desktop/lab/basic/solution:
+[01;32mlist1.py[0m  [01;32mlist2.py[0m  [01;32mmimic.py[0m  [01;32mstring1.py[0m  [01;32mstring2.py[0m  [01;32mwordcount.py[0m
+
+./Desktop/lab/copyspecial:
+[01;32mcopyspecial.py[0m  [01;34msolution[0m  xyz__hello__.txt  [01;35mzz__something__.jpg[0m
+
+./Desktop/lab/copyspecial/solution:
+[01;32mcopyspecial.py[0m
+
+./Desktop/lab/Desktop:
+[01;34mlab05[0m
+
+./Desktop/lab/Desktop/lab05:
+[01;34mhello[0m  [01;34mhello1[0m
+
+./Desktop/lab/Desktop/lab05/hello:
+
+./Desktop/lab/Desktop/lab05/hello1:
+
+./Desktop/lab/hello:
+
+./Desktop/lab/hello2:
+
+./Desktop/lab/logpuzzle:
+animal_code.google.com  [01;32mlogpuzzle.py[0m  place_code.google.com  [01;34msolution[0m
+
+./Desktop/lab/logpuzzle/solution:
+[01;32mlogpuzzle.py[0m
+
+./Desktop/lab05:
+lab05.pdf  lab05.py  timeclass.py  timeclass.pyc
+
+./Desktop/lab2:
+dice.py  dice.pyc
+
+./Desktop/Midterm:
+[01;34mh[0m  hi
+
+./Desktop/Midterm/h:
+hi
+
+./Desktop/MID_TERM:
+CLX-3180_20170214_05332101.pdf  CLX-3180_20170214_05400309.pdf
+CLX-3180_20170214_05355007.pdf  CLX-3180_20170214_05412704.pdf
+CLX-3180_20170214_05371304.pdf  CLX-3180_20170214_05424908.pdf
+CLX-3180_20170214_05384300.pdf  MID_TERM1.pdf
+
+./Desktop/Sampledir:
+a  b
+
+./Desktop/touchhere:
+help.txt
+
+./Documents:
+
+./Downloads:
+[01;35m15183834_1868479180049863_17034010_o.jpg[0m
+[01;35m15302358_1868479336716514_1603657262_o.jpg[0m
+1diimArrays.pdf
+2014-spring-prelim1-answers.pdf
+20170207_Pratikshya_ESSAY4513651.docx
+58956712.htm
+A1 team milestone.docx
+Abhishek_FisheyeBubbleChart.pdf
+Abhishek_IntenseScan.xml
+Abhishek_MBSA_Scan.rtf
+Abhishek_PasswordGPO(1).htm
+Abhishek_PasswordGPO.htm
+Anaconda2-4.1.1-Linux-x86_64.sh
+[01;31mAttachments_2016118.zip[0m
+Bug Report_ foothill.docx
+CEACAA006MP0CC.dat
+[01;31mChapter 03.zip[0m
+CompTIASecurity+GetCertifiedGetAhead.pdf
+DiceSimulation(1).class
+DiceSimulation.class
+DiceSimulation.java
+Eftekhari_CIS-041A_61Y_winter2017.pdf
+EWRT 211 W17 Essay 1 Checklist .pdf
+[01;31mflash_player_ppapi_linux.x86_64.tar.gz[0m
+Funsec2E_Lab01_AW.pdf
+Funsec2E_Lab02_AW.pdf
+Funsec2E_Lab03_AW.pdf
+FunSec2 SLM Lab04 AW_rr-2.pdf
+[01;31mgoogle-python-exercises.zip[0m
+hw1_211.docx
+I901_payment_confirmation_01062017.PDF
+lab02.pdf
+lab03.pdf
+[01;31mLab 03.zip[0m
+[01;31mLab 04.zip[0m
+[01;31mLab 07.zip[0m
+lab10Solution.pdf
+Lab 1 Assessment Answer Key.pdf
+lab 1 Getting started with lab 1 (part 2) for PDF.pdf
+labfour (1).docx
+labfour.docx
+Lab one(1).docx
+Lab one(2).docx
+Lab one(3).docx
+Lab one.docx
+lab three revised (1).docx
+lab three revised(1).docx
+lab three revised.docx
+labtwo(1).docx
+labtwo(2).docx
+labtwo.docx
+[01;34mLGPL[0m
+[01;31mmidterm.zip[0m
+[01;34mnetwork_lab2 [0m
+[01;34mNetwork Security[0m
+objects(1).pdf
+objects.pdf
+~$ompt 4 FINAL Paper !(1).docx
+~$ompt 4 FINAL Paper !(2).docx
+~$ompt 4 FINAL Paper !.docx
+Organizations for Security Professionals-1.pdf
+Parmila.docx
+PassNoPass.pdf
+PizzaOrder.java
+[01;35mpramila.jpg[0m
+[01;34mpycharm-community-2016.2.3[0m
+[01;34mPYthon-41[0m
+Review Chaper 1 Powerpoint.pdf
+script(1).docx
+script(2).docx
+script(3).docx
+script.docx
+search.htm
+SEVIS.PDF
+SQA_Slides_W1.pdf
+Sumarry(1).docx
+Sumarry.docx
+summaryfeb7word.docx
+temp a. Week 1 session 2.pdf
+
+./Downloads/LGPL:
+LGPL.txt  notice.txt
+
+./Downloads/network_lab2 :
+201702021815 nmap -sn --exclude 172.30.0.2 172.30.0.0_24.xml
+201702021817 nmap -sS --exclude 172.30.0.2 172.30.0.0_24.xml
+201702021820 nmap -O --exclude 172.30.0.2 172.30.0.0_24.xml
+201702021824 nmap -sV --exclude 172.30.0.2 172.30.0.0_24.xml
+Abhishek_VulenerbailityScan.pdf
+[01;35mlab2_13a.png[0m
+[01;35mlab2_13b.png[0m
+[01;35mlab2_13c.png[0m
+[01;35mlab2_13d.png[0m
+[01;35mlab2_13.png[0m
+[01;35mlab2_17a.png[0m
+[01;35mlab2_17c.png[0m
+[01;35mlab2_17d.png[0m
+[01;35mlab2_17.png[0m
+[01;35mlab2_8.png[0m
+Lab2_worksheet.pdf
+[01;35mlab3_17b.png[0m
+LAB3.pdf
+[01;31mnetwork_lab2 .zip[0m
+[01;35mnmap_-O.png[0m
+[01;35mnmap_sn.png[0m
+[01;35mnmap_sS.png[0m
+[01;35mnmap_sV.png[0m
+
+./Downloads/Network Security:
+1. Week 1 (session 1) getting Started in your COURSE.pptx.pdf
+Review Chaper 1 Powerpoint(1).pdf
+
+./Downloads/pycharm-community-2016.2.3:
+[01;34mbin[0m  build.txt  [01;34mhelp[0m  [01;34mhelpers[0m  [01;34mjre[0m  [01;34mlib[0m  [01;34mlicense[0m  [01;34mplugins[0m
+
+./Downloads/pycharm-community-2016.2.3/bin:
+[01;32mfsnotifier[0m      idea.properties  pycharm64.vmoptions  pycharm.vmoptions
+[01;32mfsnotifier64[0m    [01;32minspect.sh[0m       [01;35mpycharm.png[0m
+[01;32mfsnotifier-arm[0m  log.xml          [01;32mpycharm.sh[0m
+
+./Downloads/pycharm-community-2016.2.3/help:
+[01;31mpycharmhelp.jar[0m  ReferenceCardForMac.pdf  ReferenceCard.pdf
+
+./Downloads/pycharm-community-2016.2.3/helpers:
+check_all_test_suite.py  [01;31mpip-7.1.0.tar.gz[0m         [01;34mrest_runners[0m
+conda_packaging_tool.py  [01;34mpockets[0m                  [01;31msetuptools-1.4.2.tar.gz[0m
+[01;34mcoveragepy[0m               [01;34mprofiler[0m                 [01;31msetuptools-18.1.tar.gz[0m
+[01;34mcoverage_runner[0m          [01;34mpy2only[0m                  six.py
+docstring_formatter.py   [01;34mpy3only[0m                  [01;34msphinxcontrib[0m
+[01;34mepydoc[0m                   [01;34mpycharm[0m                  syspath.py
+extra_syspath.py         [01;34mpycharm_generator_utils[0m  test_generator.py
+generator3.py            pycodestyle.py           [01;34mtools[0m
+icon-robots.txt          [01;34mpydev[0m                    [01;31mvirtualenv-1.11.6.tar.gz[0m
+packaging_tool.py        [01;34mpython-skeletons[0m         [01;31mvirtualenv-13.1.0.tar.gz[0m
+[01;31mpip-1.1.tar.gz[0m           required_gen_version     [01;31mvirtualenv-1.7.2.tar.gz[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/coveragepy:
+[01;34mcoverage[0m  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/coveragepy/coverage:
+annotate.py   config.py    [01;34mfullcoverage[0m  parser.py      tracer.c
+backward.py   control.py   [01;34mhtmlfiles[0m     phystokens.py  version.py
+bytecode.py   data.py      html.py       report.py      xmlreport.py
+cmdline.py    debug.py     __init__.py   results.py
+codeunit.py   execfile.py  __main__.py   summary.py
+collector.py  files.py     misc.py       templite.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/coveragepy/coverage/fullcoverage:
+encodings.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/coveragepy/coverage/htmlfiles:
+coverage_html.js   jquery.isonscreen.js       [01;35mkeybd_closed.png[0m  style.css
+index.html         jquery.min.js              [01;35mkeybd_open.png[0m
+jquery.hotkeys.js  jquery.tablesorter.min.js  pyfile.html
+
+./Downloads/pycharm-community-2016.2.3/helpers/coverage_runner:
+__init__.py  run_coverage.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/epydoc:
+apidoc.py   compat.py           docparser.py        gui.py       [01;34mmarkup[0m
+checker.py  docbuilder.py       docstringparser.py  __init__.py  util.py
+cli.py      docintrospecter.py  [01;34mdocwriter[0m           log.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/epydoc/docwriter:
+dotgraph.py       html_css.py   html.py      latex.py      xlink.py
+html_colorize.py  html_help.py  __init__.py  plaintext.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/epydoc/markup:
+doctest.py  __init__.py  plaintext.py   restructuredtext.py
+epytext.py  javadoc.py   pyval_repr.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pockets:
+collections.py  __init__.py  inspect.py  iterators.py  string.py  _version.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler:
+__init__.py    profiler.thrift   prof_util.py     [01;34mthriftpy[0m
+load_pstat.py  _prof_imports.py  run_profiler.py  vmprof_profiler.py
+[01;34mply[0m            prof_io.py        six.py           yappi_profiler.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/ply:
+cpp.py  ctokens.py  __init__.py  lex.py  yacc.py  ygen.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy:
+_compat.py  hook.py      [01;34mparser[0m    rpc.py     thrift.py   [01;34mtransport[0m
+[01;34mcontrib[0m     __init__.py  [01;34mprotocol[0m  server.py  tornado.py  utils.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/contrib:
+__init__.py  [01;34mtracking[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/contrib/tracking:
+__init__.py  tracker.py  tracking.thrift
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/parser:
+exc.py  __init__.py  lexer.py  parser.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/protocol:
+binary.py  compact.py  [01;34mcybin[0m  exc.py  __init__.py  json.py  multiplex.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/protocol/cybin:
+cybin.pyx  endian_port.h
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/transport:
+[01;34mbuffered[0m    cybase.pyx  __init__.py  socket.py  sslsocket.py
+cybase.pxd  [01;34mframed[0m      [01;34mmemory[0m       _ssl.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/transport/buffered:
+cybuffered.pyx  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/transport/framed:
+cyframed.pyx  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/profiler/thriftpy/transport/memory:
+cymemory.pyx  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only:
+[01;34mdocutils[0m  roman.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils:
+_compat.py     examples.py  io.py      [01;34mparsers[0m          [01;34mtransforms[0m
+core.py        frontend.py  [01;34mlanguages[0m  [01;34mreaders[0m          [01;34mutils[0m
+docutils.conf  __init__.py  nodes.py   statemachine.py  [01;34mwriters[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/languages:
+af.py  da.py  eo.py  fr.py  __init__.py  lt.py  pt_br.py  sv.py
+ca.py  de.py  es.py  gl.py  it.py        nl.py  ru.py     zh_cn.py
+cs.py  en.py  fi.py  he.py  ja.py        pl.py  sk.py     zh_tw.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/parsers:
+__init__.py  null.py  [01;34mrst[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/parsers/rst:
+[01;34mdirectives[0m  __init__.py  roles.py   tableparser.py
+[01;34minclude[0m     [01;34mlanguages[0m    states.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/parsers/rst/directives:
+admonitions.py  html.py    __init__.py  parts.py       tables.py
+body.py         images.py  misc.py      references.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/parsers/rst/include:
+isoamsa.txt  isodia.txt        isomfrk-wide.txt  mmlextra.txt
+isoamsb.txt  isogrk1.txt       isomopf.txt       mmlextra-wide.txt
+isoamsc.txt  isogrk2.txt       isomopf-wide.txt  README.txt
+isoamsn.txt  isogrk3.txt       isomscr.txt       s5defs.txt
+isoamso.txt  isogrk4.txt       isomscr-wide.txt  xhtml1-lat1.txt
+isoamsr.txt  isogrk4-wide.txt  isonum.txt        xhtml1-special.txt
+isobox.txt   isolat1.txt       isopub.txt        xhtml1-symbol.txt
+isocyr1.txt  isolat2.txt       isotech.txt
+isocyr2.txt  isomfrk.txt       mmlalias.txt
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/parsers/rst/languages:
+af.py  da.py  eo.py  fr.py  __init__.py  lt.py  pt_br.py  sv.py
+ca.py  de.py  es.py  gl.py  it.py        nl.py  ru.py     zh_cn.py
+cs.py  en.py  fi.py  he.py  ja.py        pl.py  sk.py     zh_tw.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/readers:
+doctree.py  __init__.py  pep.py  standalone.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/transforms:
+components.py   __init__.py  parts.py  references.py  writer_aux.py
+frontmatter.py  misc.py      peps.py   universal.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/utils:
+code_analyzer.py    __init__.py  punctuation_chars.py  smartquotes.py
+error_reporting.py  [01;34mmath[0m         roman.py              urischemes.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/utils/math:
+__init__.py  latex2mathml.py  math2html.py  tex2unichar.py  unichar2tex.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers:
+docutils_xml.py  __init__.py  manpage.py  [01;34modf_odt[0m   pseudoxml.py  [01;34mxetex[0m
+[01;34mhtml4css1[0m        [01;34mlatex2e[0m      null.py     [01;34mpep_html[0m  [01;34ms5_html[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/html4css1:
+html4css1.css  __init__.py  math.css  template.txt
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/latex2e:
+default.tex  docutils-05-compat.sty  __init__.py  titlepage.tex  xelatex.tex
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/odf_odt:
+__init__.py  pygmentsformatter.py  styles.odt
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/pep_html:
+__init__.py  pep.css  template.txt
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html:
+__init__.py  [01;34mthemes[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html/themes:
+[01;34mbig-black[0m  [01;34mdefault[0m       [01;34mmedium-white[0m  [01;34msmall-black[0m
+[01;34mbig-white[0m  [01;34mmedium-black[0m  README.txt    [01;34msmall-white[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html/themes/big-black:
+__base__  framing.css  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html/themes/big-white:
+framing.css  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html/themes/default:
+[01;35mblank.gif[0m    iepngfix.htc  outline.css  print.css    slides.css
+framing.css  opera.css     pretty.css   s5-core.css  slides.js
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html/themes/medium-black:
+__base__  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html/themes/medium-white:
+framing.css  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html/themes/small-black:
+__base__  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/s5_html/themes/small-white:
+framing.css  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py2only/docutils/writers/xetex:
+__init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only:
+[01;34mdocutils[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils:
+_compat.py   frontend.py  [01;34mlanguages[0m  [01;34mreaders[0m          [01;34mutils[0m
+core.py      __init__.py  nodes.py   statemachine.py  [01;34mwriters[0m
+examples.py  io.py        [01;34mparsers[0m    [01;34mtransforms[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/languages:
+af.py  da.py  eo.py  fr.py  __init__.py  lt.py  pt_br.py  sv.py
+ca.py  de.py  es.py  gl.py  it.py        nl.py  ru.py     zh_cn.py
+cs.py  en.py  fi.py  he.py  ja.py        pl.py  sk.py     zh_tw.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/parsers:
+__init__.py  null.py  [01;34mrst[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/parsers/rst:
+[01;34mdirectives[0m  __init__.py  roles.py   tableparser.py
+[01;34minclude[0m     [01;34mlanguages[0m    states.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/parsers/rst/directives:
+admonitions.py  html.py    __init__.py  parts.py       tables.py
+body.py         images.py  misc.py      references.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/parsers/rst/include:
+isoamsa.txt  isodia.txt        isomfrk-wide.txt  mmlextra.txt
+isoamsb.txt  isogrk1.txt       isomopf.txt       mmlextra-wide.txt
+isoamsc.txt  isogrk2.txt       isomopf-wide.txt  README.txt
+isoamsn.txt  isogrk3.txt       isomscr.txt       s5defs.txt
+isoamso.txt  isogrk4.txt       isomscr-wide.txt  xhtml1-lat1.txt
+isoamsr.txt  isogrk4-wide.txt  isonum.txt        xhtml1-special.txt
+isobox.txt   isolat1.txt       isopub.txt        xhtml1-symbol.txt
+isocyr1.txt  isolat2.txt       isotech.txt
+isocyr2.txt  isomfrk.txt       mmlalias.txt
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/parsers/rst/languages:
+af.py  da.py  eo.py  fr.py  __init__.py  lt.py  pt_br.py  sv.py
+ca.py  de.py  es.py  gl.py  it.py        nl.py  ru.py     zh_cn.py
+cs.py  en.py  fi.py  he.py  ja.py        pl.py  sk.py     zh_tw.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/readers:
+doctree.py  __init__.py  pep.py  standalone.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/transforms:
+components.py   __init__.py  parts.py  references.py  writer_aux.py
+frontmatter.py  misc.py      peps.py   universal.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/utils:
+code_analyzer.py    __init__.py  punctuation_chars.py  smartquotes.py
+error_reporting.py  [01;34mmath[0m         roman.py              urischemes.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/utils/math:
+__init__.py  latex2mathml.py  math2html.py  tex2unichar.py  unichar2tex.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers:
+docutils_xml.py  __init__.py  manpage.py  [01;34modf_odt[0m   pseudoxml.py  [01;34mxetex[0m
+[01;34mhtml4css1[0m        [01;34mlatex2e[0m      null.py     [01;34mpep_html[0m  [01;34ms5_html[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/html4css1:
+html4css1.css  __init__.py  math.css  template.txt
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/latex2e:
+default.tex  __init__.py  titlepage.tex  xelatex.tex
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/odf_odt:
+__init__.py  pygmentsformatter.py  styles.odt
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/pep_html:
+__init__.py  pep.css  template.txt
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html:
+__init__.py  [01;34mthemes[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html/themes:
+[01;34mbig-black[0m  [01;34mdefault[0m       [01;34mmedium-white[0m  [01;34msmall-black[0m
+[01;34mbig-white[0m  [01;34mmedium-black[0m  README.txt    [01;34msmall-white[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html/themes/big-black:
+__base__  framing.css  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html/themes/big-white:
+framing.css  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html/themes/default:
+[01;35mblank.gif[0m    iepngfix.htc  outline.css  print.css    slides.css
+framing.css  opera.css     pretty.css   s5-core.css  slides.js
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html/themes/medium-black:
+__base__  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html/themes/medium-white:
+framing.css  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html/themes/small-black:
+__base__  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/s5_html/themes/small-white:
+framing.css  pretty.css
+
+./Downloads/pycharm-community-2016.2.3/helpers/py3only/docutils/writers/xetex:
+__init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pycharm:
+appcfg_fetcher.py                _jb_utils.py
+attestrunner.py                  lettuce_runner.py
+_bdd_utils.py                    [01;34mnose_helper[0m
+behave_runner.py                 noserunner.py
+buildout_engulfer.py             nose_utils.py
+[01;34mdjango_manage_commands_provider[0m  [01;34mpycharm_commands[0m
+django_manage.py                 pycharm_load_entry_point.py
+django_manage_shell.py           pycharm_run_utils.py
+django_test_manage.py            pycharm_setup_runner.py
+django_test_runner.py            pytestrunner.py
+docrunner.py                     pytest_teamcity.py
+fix_getpass.py                   runpy_compat.py
+__init__.py                      tcmessages.py
+_jb_manage_tasks_provider.py     tcunittest.py
+_jb_tox_runner.py                utrunner.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pycharm/django_manage_commands_provider:
+__init__.py  [01;34m_parser[0m  readme.txt  _xml.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pycharm/django_manage_commands_provider/_parser:
+_argparse.py  __init__.py  _optparse.py  parser.py  _utils.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pycharm/nose_helper:
+_2.py  case.py    failure.py   loader.py        selector.py  util.py
+_3.py  config.py  __init__.py  raise_compat.py  suite.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pycharm/pycharm_commands:
+__init__.py  pycharm_test.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pycharm_generator_utils:
+clr_tools.py  __init__.py             pyparsing.py      util_methods.py
+constants.py  module_redeclarator.py  pyparsing_py3.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev:
+build.gradle                       [01;34m_pydev_imps[0m
+[01;34mbuild_tools[0m                        [01;34mpydev_ipython[0m
+interpreterInfo.py                 pydev_pysrc.py
+LICENSE                            [01;34m_pydev_runfiles[0m
+merge_pydev_pycharm.txt            pydev_run_in_console.py
+pycharm-readme.txt                 [01;34mpydev_sitecustomize[0m
+pycompletionserver.py              README.rst
+pydev_app_engine_debug_startup.py  runfiles.py
+[01;34m_pydev_bundle[0m                      setup_cython.py
+pydevconsole.py                    setup.py
+pydev_coverage.py                  [01;34mstubs[0m
+[01;34mpydevd_attach_to_process[0m           [01;34mtest_pydevd_reload[0m
+[01;34m_pydevd_bundle[0m                     [01;34mtests_pydevd[0m
+[01;34mpydevd_concurrency_analyser[0m        [01;34mtests_pydevd_mainloop[0m
+pydevd_file_utils.py               [01;34mtests_pydevd_python[0m
+[01;34mpydevd_plugins[0m                     [01;34mtests_pydevd_runfiles[0m
+pydevd.py                          [01;34mthird_party[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/build_tools:
+build_binaries_windows.py  generate_code.py    rename_pep8.py
+build.py                   names_to_rename.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/_pydev_bundle:
+fix_getpass.py                 pydev_is_thread_alive.py
+__init__.py                    _pydev_jy_imports_tipper.py
+_pydev_completer.py            pydev_localhost.py
+pydev_console_utils.py         _pydev_log.py
+_pydev_filesystem_encoding.py  pydev_log.py
+_pydev_getopt.py               pydev_monkey.py
+pydev_import_hook.py           pydev_monkey_qt.py
+pydev_imports.py               pydev_override.py
+_pydev_imports_tipper.py       _pydev_tipper_common.py
+pydev_ipython_console_011.py   pydev_umd.py
+pydev_ipython_console.py       pydev_versioncheck.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydevd_attach_to_process:
+add_code_to_python_process.py  attach_x86.dylib
+_always_live_program.py        _check.py
+attach_amd64.dll               [01;34mdll[0m
+attach_linux_amd64.so          [01;34mlinux[0m
+attach_linux_x86.so            README.txt
+attach_pydevd.py               _test_attach_to_process_linux.py
+attach_script.py               _test_attach_to_process.py
+attach_x86_64.dylib            [01;34mwinappdbg[0m
+attach_x86.dll
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydevd_attach_to_process/dll:
+attach.cpp  compile_dll.bat  stdafx.cpp  targetver.h
+attach.h    python.h         stdafx.h
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydevd_attach_to_process/linux:
+attach_linux.c  compile_so.sh            lldb_prepare.py           Makefile
+compile_mac.sh  gdb_threads_settrace.py  lldb_threads_settrace.py  python.h
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydevd_attach_to_process/winappdbg:
+breakpoint.py  disasm.py       module.py    search.py  thread.py
+compat.py      event.py        [01;34mplugins[0m      sql.py     util.py
+crash.py       __init__.py     process.py   system.py  [01;34mwin32[0m
+debug.py       interactive.py  registry.py  textio.py  window.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydevd_attach_to_process/winappdbg/plugins:
+do_example.py  do_exploitable.py  __init__.py
+do_exchain.py  do_symfix.py       README
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydevd_attach_to_process/winappdbg/win32:
+advapi32.py       dbghelp.py  __init__.py  peb_teb.py  shlwapi.py  wtsapi32.py
+context_amd64.py  defines.py  kernel32.py  psapi.py    user32.py
+context_i386.py   gdi32.py    ntdll.py     shell32.py  version.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/_pydevd_bundle:
+__init__.py                                   pydevd_frame.py
+pydevconsole_code_for_ironpython.py           pydevd_frame_utils.py
+pydevd_additional_thread_info.py              pydevd_import_class.py
+pydevd_additional_thread_info_regular.py      pydevd_io.py
+pydevd_breakpoints.py                         pydevd_kill_all_pydevd_threads.py
+pydevd_comm.py                                pydevd_plugin_utils.py
+pydevd_console.py                             pydevd_process_net_command.py
+pydevd_constants.py                           pydevd_referrers.py
+pydevd_custom_frames.py                       pydevd_reload.py
+pydevd_cython.c                               pydevd_resolver.py
+pydevd_cython.pyx                             pydevd_save_locals.py
+pydevd_cython_win32_27_32.pyd                 pydevd_signature.py
+pydevd_cython_win32_27_64.pyd                 pydevd_stackless.py
+pydevd_cython_win32_34_32.pyd                 pydevd_trace_api.py
+pydevd_cython_win32_34_64.pyd                 pydevd_trace_dispatch.py
+pydevd_cython_win32_35_32.cp35-win32.pyd      pydevd_trace_dispatch_regular.py
+pydevd_cython_win32_35_64.cp35-win_amd64.pyd  pydevd_traceproperty.py
+pydevd_cython_wrapper.py                      pydevd_tracing.py
+pydevd_dont_trace_files.py                    pydevd_utils.py
+pydevd_dont_trace.py                          pydevd_vars.py
+pydevd_exec2.py                               pydevd_vm_type.py
+pydevd_exec.py                                pydevd_xml.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydevd_concurrency_analyser:
+__init__.py  pydevd_concurrency_logger.py  pydevd_thread_wrappers.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydevd_plugins:
+django_debug.py  __init__.py  jinja2_debug.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/_pydev_imps:
+__init__.py               _pydev_pkgutil_old.py         _pydev_sys_patch.py
+_pydev_BaseHTTPServer.py  _pydev_saved_modules.py       _pydev_uuid_old.py
+_pydev_execfile.py        _pydev_SimpleXMLRPCServer.py  _pydev_xmlrpclib.py
+_pydev_inspect.py         _pydev_SocketServer.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydev_ipython:
+__init__.py       inputhook.py        inputhookwx.py      qt.py
+inputhookglut.py  inputhookpyglet.py  matplotlibtools.py  README
+inputhookgtk3.py  inputhookqt4.py     qt_for_kernel.py    version.py
+inputhookgtk.py   inputhooktk.py      qt_loaders.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/_pydev_runfiles:
+__init__.py                        pydev_runfiles.py
+pydev_runfiles_coverage.py         pydev_runfiles_pytest2.py
+pydev_runfiles_nose.py             pydev_runfiles_unittest.py
+pydev_runfiles_parallel_client.py  pydev_runfiles_xml_rpc.py
+pydev_runfiles_parallel.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/pydev_sitecustomize:
+__not_in_default_pythonpath.txt  sitecustomize.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/stubs:
+_django_manager_body.py  _get_tips.py  pycompletion.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/test_pydevd_reload:
+__init__.py  test_pydevd_reload.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd:
+__init__.py                 test_jysimpleTipper.py     test_signature.py
+test_check_pydevconsole.py  test_pydevconsole.py       test_simpleTipper.py
+test_get_referrers.py       test_pydev_ipython_011.py
+test_jyserver.py            test_pyserver.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_mainloop:
+gui-glut.py  gui-gtk.py     gui-qt.py  gui-wx.py    README
+gui-gtk3.py  gui-pyglet.py  gui-tk.py  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_python:
+_debugger_case10.py           _debugger_case7.py
+_debugger_case13.py           _debugger_case89.py
+_debugger_case14.py           _debugger_case_qthread1.py
+_debugger_case15_execfile.py  _debugger_case_qthread2.py
+_debugger_case15.py           _debugger_case_qthread3.py
+_debugger_case16.py           _debugger_case_set_next_statement.py
+_debugger_case17a.py          debugger_unittest.py
+_debugger_case17.py           __init__.py
+_debugger_case18.py           [01;34mmy_django_proj_17[0m
+_debugger_case19.py           _performance_1.py
+_debugger_case1.py            performance_check.py
+_debugger_case2.py            test_additional_thread_info.py
+_debugger_case3.py            test_debugger.py
+_debugger_case4.py            test_pydev_monkey.py
+_debugger_case56.py           test_save_locals.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_python/my_django_proj_17:
+manage.py  [01;34mmy_app[0m  [01;34mmy_django_proj_17[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_python/my_django_proj_17/my_app:
+admin.py  __init__.py  models.py  [01;34mtemplates[0m  tests.py  urls.py  views.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_python/my_django_proj_17/my_app/templates:
+[01;34mmy_app[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_python/my_django_proj_17/my_app/templates/my_app:
+index.html
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_python/my_django_proj_17/my_django_proj_17:
+__init__.py  settings.py  urls.py  wsgi.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_runfiles:
+not_in_default_pythonpath.txt  test_pydevdio.py         test_runfiles.py
+[01;34msamples[0m                        test_pydevd_property.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_runfiles/samples:
+[01;34mnested_dir[0m                     simple2_test.py      simpleModule_test.py
+non_test_file.py               simple3_test.py      simple_test.py
+not_in_default_pythonpath.txt  simpleClass_test.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_runfiles/samples/nested_dir:
+__init__.py  [01;34mnested2[0m  [01;34mnested3[0m  non_test_file.py  simple4_test.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_runfiles/samples/nested_dir/nested2:
+deep_nest_test.py  __init__.py  non_test_file.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/tests_pydevd_runfiles/samples/nested_dir/nested3:
+__init__.py  junk.txt  non_test_file.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party:
+[01;34mpep8[0m  [01;34mwrapped_for_pydev[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party/pep8:
+autopep8.py  [01;34mlib2to3[0m  pep8.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party/pep8/lib2to3:
+[01;34mlib2to3[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party/pep8/lib2to3/lib2to3:
+btm_matcher.py  fixer_util.py  __init__.py  patcomp.py          pygram.py
+btm_utils.py    [01;34mfixes[0m          __main__.py  PatternGrammar.txt  pytree.py
+fixer_base.py   Grammar.txt    main.py      [01;34mpgen2[0m               refactor.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party/pep8/lib2to3/lib2to3/fixes:
+fix_apply.py       fix_input.py              fix_reduce.py
+fix_basestring.py  fix_intern.py             fix_renames.py
+fix_buffer.py      fix_isinstance.py         fix_repr.py
+fix_callable.py    fix_itertools_imports.py  fix_set_literal.py
+fix_dict.py        fix_itertools.py          fix_standarderror.py
+fix_except.py      fix_long.py               fix_sys_exc.py
+fix_execfile.py    fix_map.py                fix_throw.py
+fix_exec.py        fix_metaclass.py          fix_tuple_params.py
+fix_exitfunc.py    fix_methodattrs.py        fix_types.py
+fix_filter.py      fix_ne.py                 fix_unicode.py
+fix_funcattrs.py   fix_next.py               fix_urllib.py
+fix_future.py      fix_nonzero.py            fix_ws_comma.py
+fix_getcwdu.py     fix_numliterals.py        fix_xrange.py
+fix_has_key.py     fix_operator.py           fix_xreadlines.py
+fix_idioms.py      fix_paren.py              fix_zip.py
+fix_import.py      fix_print.py              __init__.py
+fix_imports2.py    fix_raise.py
+fix_imports.py     fix_raw_input.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party/pep8/lib2to3/lib2to3/pgen2:
+conv.py    grammar.py   literals.py  pgen.py      token.py
+driver.py  __init__.py  parse.py     tokenize.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party/wrapped_for_pydev:
+[01;34mctypes[0m  not_in_default_pythonpath.txt
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party/wrapped_for_pydev/ctypes:
+_ctypes.dll        _endian.py   [01;34mmacholib[0m  wintypes.py
+ctypes-README.txt  __init__.py  util.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/pydev/third_party/wrapped_for_pydev/ctypes/macholib:
+dyld.py  dylib.py  framework.py  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons:
+alembic.py      cStringIO.py  [01;34mlettuce[0m          pathlib.py  sqlite3.py
+[01;34masyncio[0m         datetime.py   LICENSE.txt      pickle.py   StringIO.py
+AUTHORS.txt     decimal.py    math.py          [01;34mpy[0m          struct.py
+behave.py       [01;34mdjango[0m        [01;34mmultiprocessing[0m  [01;34mpytest[0m      subprocess.py
+__builtin__.py  functools.py  [01;34mnose[0m             README.md   sys.py
+builtins.py     io.py         [01;34mnumpy[0m            re.py
+collections.py  itertools.py  [01;34mos[0m               shutil.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/asyncio:
+events.py  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/django:
+[01;34mdb[0m  [01;34mforms[0m  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/django/db:
+__init__.py  [01;34mmodels[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/django/db/models:
+__init__.py  query.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/django/forms:
+formsets.py  forms.py  __init__.py  models.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/lettuce:
+__init__.py  terrain.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/multiprocessing:
+__init__.py  managers.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/nose:
+__init__.py  [01;34mtools[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/nose/tools:
+__init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/numpy:
+[01;34mcore[0m  __init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/numpy/core:
+__init__.py  multiarray.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/os:
+__init__.py  path.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/py:
+error.py  __init__.py  [01;34mpath[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/py/path:
+__init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/python-skeletons/pytest:
+__init__.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/rest_runners:
+rst2smth.py  sphinx_runner.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/sphinxcontrib:
+__init__.py  [01;34mnapoleon[0m
+
+./Downloads/pycharm-community-2016.2.3/helpers/sphinxcontrib/napoleon:
+docstring.py  __init__.py  _version.py
+
+./Downloads/pycharm-community-2016.2.3/helpers/tools:
+class_method_versions.xml  [01;34mpython_keywords[0m      versions.xml
+packages                   stdlib_packages.txt
+
+./Downloads/pycharm-community-2016.2.3/helpers/tools/python_keywords:
+and     class      del     exec     from    in      nonlocal  raise   while
+as      continue   elif    False    global  is      not       return  with
+assert  __debug__  else    finally  if      lambda  or        True    yield
+break   def        except  for      import  None    pass      try
+
+./Downloads/pycharm-community-2016.2.3/jre:
+[01;34mjre[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre:
+ASSEMBLY_EXCEPTION  [01;34mbin[0m  [01;34mlib[0m  LICENSE  [01;34mman[0m  release  THIRD_PARTY_README
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/bin:
+[01;32mjava[0m  [01;32mkeytool[0m  [01;32mpack200[0m     [01;32mrmid[0m         [01;32mservertool[0m  [01;32munpack200[0m
+[01;32mjjs[0m   [01;32morbd[0m     [01;32mpolicytool[0m  [01;32mrmiregistry[0m  [01;32mtnameserv[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib:
+[01;34mamd64[0m                              [01;34mimages[0m                meta-index
+calendars.properties               javafx.properties     net.properties
+[01;31mcharsets.jar[0m                       [01;31mjce.jar[0m               psfontj2d.properties
+classlist                          jexec                 psfont.properties.ja
+[01;34mcmm[0m                                [01;31mjfxswt.jar[0m            [01;31mresources.jar[0m
+content-types.properties           [01;31mjsse.jar[0m              [01;31mrt.jar[0m
+currency.data                      jvm.hprof.txt         [01;34msecurity[0m
+[01;34mext[0m                                logging.properties    sound.properties
+flavormap.properties               [01;34mmanagement[0m            tzdb.dat
+hijrah-config-umalqura.properties  [01;31mmanagement-agent.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/amd64:
+[01;34mjli[0m                   libjaas_unix.so             libmanagement.so
+jvm.cfg               libjava_crw_demo.so         libmlib_image.so
+libavplugin.so        libjavafx_font_freetype.so  libnet.so
+libawt_headless.so    libjavafx_font_pango.so     libnio.so
+libawt.so             libjavafx_font.so           libnpt.so
+libawt_xawt.so        libjavafx_iio.so            libprism_common.so
+libdecora_sse.so      libjava.so                  libprism_es2.so
+libdt_socket.so       libjawt.so                  libprism_sw.so
+libfontmanager.so     libjdwp.so                  libsctp.so
+libfxplugins.so       libjfxmedia.so              libsplashscreen.so
+libglass.so           libjfxwebkit.so             libsunec.so
+libgstreamer-lite.so  libjpeg.so                  libunpack.so
+libhprof.so           libjsdt.so                  libverify.so
+libinstrument.so      libjsig.so                  libzip.so
+libj2gss.so           libjsoundalsa.so            [01;34mserver[0m
+libj2pcsc.so          libjsound.so
+libj2pkcs11.so        liblcms.so
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/amd64/jli:
+libjli.so
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/amd64/server:
+libjsig.so  libjvm.so  Xusage.txt
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/cmm:
+CIEXYZ.pf  GRAY.pf  LINEAR_RGB.pf  PYCC.pf  sRGB.pf
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/ext:
+[01;31mcldrdata.jar[0m  [01;31mjfxrt.jar[0m       [01;31mnashorn.jar[0m          [01;31msunpkcs11.jar[0m
+[01;31mdnsns.jar[0m     [01;31mlocaledata.jar[0m  [01;31msunec.jar[0m            [01;31mzipfs.jar[0m
+[01;31mjaccess.jar[0m   meta-index      [01;31msunjce_provider.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/images:
+[01;34mcursors[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/images/cursors:
+cursors.properties       [01;35mmotif_CopyNoDrop32x32.gif[0m  [01;35mmotif_MoveDrop32x32.gif[0m
+[01;35minvalid32x32.gif[0m         [01;35mmotif_LinkDrop32x32.gif[0m    [01;35mmotif_MoveNoDrop32x32.gif[0m
+[01;35mmotif_CopyDrop32x32.gif[0m  [01;35mmotif_LinkNoDrop32x32.gif[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/management:
+jmxremote.access             management.properties
+jmxremote.password.template  snmp.acl.template
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/lib/security:
+blacklisted.certs  java.policy    [01;31mlocal_policy.jar[0m
+cacerts            java.security  [01;31mUS_export_policy.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/man:
+ja  [01;34mja_JP.UTF-8[0m  [01;34mman1[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/man/ja_JP.UTF-8:
+[01;34mman1[0m
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/man/ja_JP.UTF-8/man1:
+java.1  keytool.1  pack200.1     rmid.1         servertool.1  unpack200.1
+jjs.1   orbd.1     policytool.1  rmiregistry.1  tnameserv.1
+
+./Downloads/pycharm-community-2016.2.3/jre/jre/man/man1:
+java.1  keytool.1  pack200.1     rmid.1         servertool.1  unpack200.1
+jjs.1   orbd.1     policytool.1  rmiregistry.1  tnameserv.1
+
+./Downloads/pycharm-community-2016.2.3/lib:
+[01;31mannotations.jar[0m                        [01;31mjsch.agentproxy.usocket-jna.jar[0m
+[01;31masm-all.jar[0m                            [01;31mjsch.agentproxy.usocket-nc.jar[0m
+[01;31masm-commons.jar[0m                        [01;31mjsr173_1.0_api.jar[0m
+[01;31masm.jar[0m                                [01;31mjzlib-1.1.1.jar[0m
+[01;31mautomaton.jar[0m                          [01;31mkotlin-reflect.jar[0m
+[01;31mbatik-all.jar[0m                          [01;31mkotlin-runtime.jar[0m
+[01;31mboot.jar[0m                               [01;34mlibpty[0m
+[01;31mbootstrap.jar[0m                          [01;31mlog4j.jar[0m
+[01;31mcglib-2.2.2.jar[0m                        [01;31mmarkdownj-core-0.4.2-SNAPSHOT.jar[0m
+[01;31mcli-parser-1.1.jar[0m                     [01;31mmicroba.jar[0m
+[01;31mcommon-image-3.2.1.jar[0m                 [01;31mmiglayout-swing.jar[0m
+[01;31mcommon-io-3.2.1.jar[0m                    [01;31mnanoxml-2.2.3.jar[0m
+[01;31mcommon-lang-3.2.1.jar[0m                  [01;31mnetty-all-4.1.1.Final.jar[0m
+[01;31mcommons-codec-1.9.jar[0m                  [01;31mopenapi.jar[0m
+[01;31mcommons-httpclient-3.1-patched.jar[0m     [01;31moromatcher.jar[0m
+[01;31mcommons-logging-1.2.jar[0m                [01;31mpicocontainer.jar[0m
+[01;31mcommons-net-3.3.jar[0m                    [01;31mproxy-vole_20131209.jar[0m
+[01;34mext[0m                                    [01;31mpty4j-0.7.1.jar[0m
+[01;31mextensions.jar[0m                         [01;31mpurejavacomm.jar[0m
+[01;31mfluent-hc-4.4.1.jar[0m                    [01;31mpycharm.jar[0m
+[01;31mforms_rt.jar[0m                           [01;31mpycharm-pydev.jar[0m
+[01;31mgroovy-all-2.4.6.jar[0m                   [01;31mresolver.jar[0m
+[01;31mgson-2.5.jar[0m                           [01;31mresources_en.jar[0m
+[01;31mguava-17.0.jar[0m                         [01;31mresources.jar[0m
+[01;31mhttpclient-4.4.1.jar[0m                   [01;31mrhino-js-1_7R4.jar[0m
+[01;31mhttpcore-4.4.1.jar[0m                     [01;31mrngom-20051226-patched.jar[0m
+[01;31mhttpmime-4.4.1.jar[0m                     [01;31msanselan-0.98-snapshot.jar[0m
+[01;31micons.jar[0m                              [01;31mserviceMessages.jar[0m
+[01;31mimageio-core-3.2.1.jar[0m                 [01;31mslf4j-api-1.7.10.jar[0m
+[01;31mimageio-metadata-3.2.1.jar[0m             [01;31mslf4j-log4j12-1.7.10.jar[0m
+[01;31mimageio-tiff-3.2.1.jar[0m                 [01;31msnappy-in-java-0.3.1.jar[0m
+[01;31mimgscalr-lib-4.2.jar[0m                   [01;31msqlite-jdbc-3.6.20.1.jar[0m
+[01;31misorelax.jar[0m                           [01;34msrc[0m
+[01;31mjaxen-1.1.3.jar[0m                        [01;31mswingx-core-1.6.2.jar[0m
+[01;31mjayatana-1.2.4.jar[0m                     [01;31mtrang-core.jar[0m
+[01;31mjcip-annotations.jar[0m                   [01;31mtrove4j.jar[0m
+[01;31mjdom.jar[0m                               [01;31mutil.jar[0m
+[01;31mjgoodies-forms.jar[0m                     [01;31mvelocity.jar[0m
+[01;31mjh.jar[0m                                 [01;31mwinp-1.23.jar[0m
+[01;31mjing.jar[0m                               [01;31mxbean.jar[0m
+[01;31mjna.jar[0m                                [01;31mxercesImpl.jar[0m
+[01;31mjna-platform.jar[0m                       [01;31mxml-apis-ext.jar[0m
+[01;31mjsch-0.1.53.jar[0m                        [01;31mxml-apis.jar[0m
+[01;31mjsch.agentproxy.connector-factory.jar[0m  [01;31mxmlgraphics-commons-1.5.jar[0m
+[01;31mjsch.agentproxy.core.jar[0m               [01;31mxmlrpc-2.0.jar[0m
+[01;31mjsch.agentproxy.pageant.jar[0m            [01;31mxpp3-1.1.4-min.jar[0m
+[01;31mjsch.agentproxy.sshagent.jar[0m           [01;31mxstream-1.4.8.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/lib/ext:
+[01;31mcglib-2.2.2.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty:
+[01;34mlinux[0m  [01;34mmacosx[0m  [01;34mwin[0m
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/linux:
+[01;34mx86[0m  [01;34mx86_64[0m
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/linux/x86:
+libpty.so
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/linux/x86_64:
+libpty.so
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/macosx:
+[01;34mx86[0m  [01;34mx86_64[0m
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/macosx/x86:
+libpty.dylib
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/macosx/x86_64:
+libpty.dylib
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/win:
+[01;34mx86[0m  [01;34mx86_64[0m  [01;34mxp[0m
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/win/x86:
+winpty-agent.exe  winpty.dll
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/win/x86_64:
+cyglaunch.exe  winpty-agent.exe  winpty.dll
+
+./Downloads/pycharm-community-2016.2.3/lib/libpty/win/xp:
+winpty-agent.exe  winpty.dll
+
+./Downloads/pycharm-community-2016.2.3/lib/src:
+[01;31mpycharm-openapi-src.zip[0m  [01;31mpycharm-pydev-src.zip[0m  [01;31mtrove4j_src.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/license:
+ant_license.txt         jdom_license.txt             picoContainer_license.txt
+asm_license.txt         jgoodies_forms_license.txt   sanselan_license.txt
+eclipse_license.txt     junit_license.txt            saxon-conditions.html
+growl.license           kryo-license.txt             sqljet-license.txt
+gson_license.txt        LICENSE.txt                  svnkit-license.txt
+imgscalr_license.txt    log4j_license.txt            swingx_license.txt
+javahelp_license.html   microba_license.txt          winp_license.txt
+javolution_license.txt  miglayout_swing_license.txt  xerces_license.txt
+jaxb_license.txt        nanoxml_license.txt          xmlrpc_license.txt
+jaxen_license.txt       NOTICE.txt                   XStream_license.txt
+jayatana_license.txt    oromatcher_license.txt       yourkit-license-redist.txt
+
+./Downloads/pycharm-community-2016.2.3/plugins:
+[01;34mcvsIntegration[0m  [01;34mgit4idea[0m  [01;34mhg4idea[0m  [01;34mpython-rest[0m  [01;34msettings-repository[0m  [01;34mtasks[0m
+[01;34meditorconfig[0m    [01;34mgithub[0m    [01;34mipnb[0m     [01;34mrest[0m         [01;34msvn4idea[0m             [01;34mterminal[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/cvsIntegration:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/cvsIntegration/lib:
+[01;31mcvsIntegration.jar[0m  [01;31mjavacvs-src.jar[0m   [01;31msmartcvs-src.jar[0m
+[01;31mcvs_util.jar[0m        [01;31mresources_en.jar[0m  [01;31mtrilead-ssh2-build213.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/editorconfig:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/editorconfig/lib:
+[01;31meditorconfig-core-java.jar[0m  [01;31meditorconfig.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/git4idea:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/git4idea/lib:
+[01;31mgit4idea.jar[0m     [01;31mini4j-0.5.2-patched.jar[0m  [01;31mresources_en.jar[0m
+[01;31mgit4idea-rt.jar[0m  [01;31mremote-servers-git.jar[0m   [01;31mtrilead-ssh2.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/github:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/github/lib:
+[01;31mgithub.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/hg4idea:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/hg4idea/lib:
+[01;31mhg4idea.jar[0m  [01;31mresources_en.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/ipnb:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/ipnb/lib:
+[01;31mipnb.jar[0m  [01;31mjava_websocket.jar[0m  [01;31mresources_en.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/python-rest:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/python-rest/lib:
+[01;31mpython-rest.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/rest:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/rest/lib:
+[01;31mresources_en.jar[0m  [01;31mrest.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/settings-repository:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/settings-repository/lib:
+[01;31mjackson-annotations-2.7.1.jar[0m  [01;31mjgit.jar[0m
+[01;31mjackson-core-2.7.1.jar[0m         [01;31mresources_en.jar[0m
+[01;31mjackson-databind-2.7.1-1.jar[0m   [01;31msettings-repository.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/svn4idea:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/svn4idea/lib:
+[01;31mantlr.jar[0m                                [01;31msqljet.jar[0m           [01;31msvnkit-javahl.jar[0m
+[01;31mjsch.agentproxy.svnkit-trilead-ssh2.jar[0m  [01;31msqljetsrc.zip[0m        [01;31mtrilead.jar[0m
+[01;34mlicenses[0m                                 [01;31msvn4idea.jar[0m         [01;31mtrileadsrc.zip[0m
+[01;31mresources_en.jar[0m                         [01;31msvnkit.jar[0m
+[01;31msequence-library.jar[0m                     [01;31msvnkit-javahl16.zip[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/svn4idea/lib/licenses:
+ANTLR-LICENSE  LICENSE-ANTLR.txt     LICENSE-SQLJET.txt   SEQUENCE-LICENSE
+changelog.txt  LICENSE-JAVAHL.txt    LICENSE-TRILEAD.txt  SQLJET-LICENSE
+CHANGES.txt    LICENSE-JNA.txt       LICENSE.txt          SQLJET-README.txt
+COPYING        LICENSE-SEQUENCE.txt  README.txt           TRILEAD-LICENSE
+
+./Downloads/pycharm-community-2016.2.3/plugins/tasks:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/tasks/lib:
+[01;31maxis-1.4.jar[0m               [01;31mjira.jar[0m              [01;31mtasks-core.jar[0m
+[01;31maxis-jaxrpc-1.4.jar[0m        [01;31mjson-path-0.8.0.jar[0m   [01;31mwsdl4j-1.4.jar[0m
+[01;31maxis-saaj-1.3.jar[0m          [01;31mjson-smart-1.1.1.jar[0m
+[01;31mcommons-discovery-0.4.jar[0m  [01;31mtasks-api.jar[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/terminal:
+[01;34mlib[0m
+
+./Downloads/pycharm-community-2016.2.3/plugins/terminal/lib:
+jediterm.in  [01;31mjediterm-pty-2.2.jar[0m  [01;31mresources_en.jar[0m  [01;31mterminal.jar[0m
+
+./Downloads/PYthon-41:
+[01;31mlab01.zip[0m               presentation-02.pdf     [01;31mpresentation-15(1).zip[0m
+lab02(1).pdf            [01;31mpresentation-03(1).zip[0m  [01;31mpresentation-15.zip[0m
+lab03(1).pdf            [01;31mpresentation-03.zip[0m     [01;31mpresentation-16.zip[0m
+[01;31mlab05.zip[0m               [01;31mpresentation-04(1).zip[0m  [01;31mpresentation-17(1).zip[0m
+[01;31mlab06.zip[0m               [01;31mpresentation-04.zip[0m     [01;31mpresentation-17.zip[0m
+[01;31mlab07.zip[0m               [01;31mpresentation-05.zip[0m     [01;31mpresentation-18.zip[0m
+[01;31mlab08.zip[0m               [01;31mpresentation-07.zip[0m     [01;31mpresentation-19.zip[0m
+[01;31mlab09.zip[0m               [01;31mpresentation-08.zip[0m     [01;31mpresentation-20.zip[0m
+[01;31mlab10.zip[0m               [01;31mpresentation-09.zip[0m     [01;31mpresentation-21.zip[0m
+[01;31mlab11.zip[0m               [01;31mpresentation-10.zip[0m     [01;31mpresentation-22.zip[0m
+[01;31mlab12.zip[0m               [01;31mpresentation-11.zip[0m     [01;31mpresentation-23.zip[0m
+presentation-01(1).pdf  presentation-12.pdf     [01;31mpresentation-24.zip[0m
+presentation-01.pdf     [01;31mpresentation-13.zip[0m
+presentation-02(1).pdf  [01;31mpresentation-14.zip[0m
+
+./Index:
+AnnotationAuthorStorage.iwa  DocumentMetadata.iwa    ViewState.iwa
+CalculationEngine.iwa        DocumentStylesheet.iwa
+Document.iwa                 Metadata.iwa
+
+./kdenlive:
+[01;34mproxy[0m  [01;34mthumbs[0m  [01;34mtitles[0m
+
+./kdenlive/proxy:
+
+./kdenlive/thumbs:
+[01;35m33cdd8542217e26d8e7244d3d99fc48c_audio.png[0m
+[01;35m33cdd8542217e26d8e7244d3d99fc48c.png[0m
+[01;35m3fa58267f62d3296de2ad0faaeffd9df_audio.png[0m
+[01;35m3fa58267f62d3296de2ad0faaeffd9df.png[0m
+[01;35m641bb3c3f3ef577eed87c9e62bda0c26.png[0m
+[01;35m65ac553f330b9e1c781c722d681d6663_audio.png[0m
+[01;35m65ac553f330b9e1c781c722d681d6663.png[0m
+[01;35m699eea5a37844eb95ed9ac57fe81c957_audio.png[0m
+[01;35m699eea5a37844eb95ed9ac57fe81c957.png[0m
+[01;35m70d84c4deb9940f7a1d568469fa3a8f9_audio.png[0m
+[01;35m70d84c4deb9940f7a1d568469fa3a8f9.png[0m
+[01;35m7586bfeddc5522c136a30b2150a96be2_audio.png[0m
+[01;35m7586bfeddc5522c136a30b2150a96be2.png[0m
+[01;35m763a27c36a501a6ded0331cdda93cc97_audio.png[0m
+[01;35m763a27c36a501a6ded0331cdda93cc97.png[0m
+[01;35m8e104a8187b76177c05c2f9cce8f462d_audio.png[0m
+[01;35m8e104a8187b76177c05c2f9cce8f462d.png[0m
+[01;35m96195b68b7e2fc50b5bd4ec171b6da96_audio.png[0m
+[01;35m96195b68b7e2fc50b5bd4ec171b6da96.png[0m
+[01;35mcbc8dd8fc32f8ac8313e83d1536575c0_audio.png[0m
+[01;35mcbc8dd8fc32f8ac8313e83d1536575c0.png[0m
+[01;35mcd145f08ad040d3f7ea72f711e75721c_audio.png[0m
+[01;35mcd145f08ad040d3f7ea72f711e75721c.png[0m
+[01;35md41d8cd98f00b204e9800998ecf8427e.png[0m
+[01;35mdd677d451a86b9e85ed57500a7ed8c02_audio.png[0m
+[01;35mdd677d451a86b9e85ed57500a7ed8c02.png[0m
+[01;35me3e8c1df5b2a3c778c99b69114639fa0.png[0m
+[01;35mf9f3ca09ecfb00af5d308f808d77bd47_audio.png[0m
+[01;35mf9f3ca09ecfb00af5d308f808d77bd47.png[0m
+
+./kdenlive/titles:
+
+./letters:
+[01;34mformal[0m  [01;34mfriendly[0m
+
+./letters/formal:
+
+./letters/friendly:
+
+./Metadata:
+BuildVersionHistory.plist  DocumentIdentifier  Properties.plist
+
+./Music:
+
+./Pictures:
+[01;35mAccess_denied.png[0m     Overlap.png.pp3
+[01;35mhost1.png[0m             [01;35mPasswordGPO.png[0m
+[01;35mlab2_13a.png[0m          [01;35mScreenshot from 2016-10-22 10-32-10.png[0m
+[01;35mlab2_13b.png[0m          [01;35mScreenshot from 2016-10-22 10-39-47.png[0m
+[01;35mlab2_13c.png[0m          [01;35mScreenshot from 2016-11-09 07-43-41.png[0m
+[01;35mlab2_13d.png[0m          [01;35mScreenshot from 2016-12-10 16-24-00.png[0m
+[01;35mlab2_13.png[0m           Screenshot from 2016-12-10 16-24-00.png.pp3
+[01;35mlab2_17a.png[0m          [01;35mScreenshot from 2016-12-28 11-01-52.png[0m
+[01;35mlab2_17c.png[0m          [01;35mScreenshot from 2017-01-03 22-09-19.png[0m
+[01;35mlab2_17d.png[0m          [01;35mScreenshot from 2017-01-19 10-46-02.png[0m
+[01;35mlab2_17.png[0m           [01;35mScreenshot from 2017-01-27 10-22-59.png[0m
+[01;35mlab2_8.png[0m            [01;34mStellarium[0m
+[01;35mlab3_17b.png[0m          [01;35mtxtfileSFUser.png[0m
+[01;35mMRG_accessdenied.png[0m  Untitled Document
+[01;35mOverlap.png[0m
+
+./Pictures/Stellarium:
+
+./Public:
+
+./PycharmProjects:
+[01;34mmy_proj[0m  [01;34muntitled[0m  [01;34muntitled1[0m  [01;34muntitled2[0m  [01;34muntitled3[0m  [01;34muntitled4[0m
+
+./PycharmProjects/my_proj:
+A3.py  function.py  t2.py  test1.py  test.py  tset.py  tss.py
+
+./PycharmProjects/untitled:
+
+./PycharmProjects/untitled1:
+Q6i.py  Q6.py
+
+./PycharmProjects/untitled2:
+
+./PycharmProjects/untitled3:
+Lab4.py
+
+./PycharmProjects/untitled4:
+automation.py    Lab7.py      Q2.py         t1.py     test.py
+cir.py           pp2.py       Quiz.py       t2.py     testt.py
+classQA.py       PP.py        Ran_no.py     t3.py     try12.py
+F1.py            [01;34m__pycache__[0m  rec2.py       tes2.py   try1.py
+functiontest.py  Q1.py        Rectangle.py  test2.py  try.py
+
+./PycharmProjects/untitled4/__pycache__:
+PP.cpython-35.pyc  Rectangle.cpython-35.pyc
+Q1.cpython-35.pyc  test.cpython-35.pyc
+
+./reports:
+[01;34mbusiness[0m  [01;34mpersonal[0m  [01;34mschool[0m
+
+./reports/business:
+
+./reports/personal:
+
+./reports/school:
+
+./Templates:
+
+./Videos:
+
+./workspace:
+[01;34marrayisfun[0m  [01;34mDayb4election[0m  [01;34mHomework[0m  [01;34mLab3[0m        [01;34mnew[0m    [01;34mreadwrite[0m
+[01;34mChapter6[0m    [01;34mfirstLab[0m       [01;34mIncome[0m    [01;34mmon_17_oct[0m  [01;34mOct10[0m  [01;34mRectangle[0m
+
+./workspace/arrayisfun:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/arrayisfun/bin:
+arrayfun.class  Human.class  Practice.class  SalesApp.class
+
+./workspace/arrayisfun/src:
+arrayfun.java  Human.java  Practice.java  SalesApp.java
+
+./workspace/Chapter6:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/Chapter6/bin:
+AccountTest.class  BankAccount.class
+
+./workspace/Chapter6/src:
+AccountTest.java  BankAccount.java
+
+./workspace/Dayb4election:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/Dayb4election/bin:
+functionTester.class
+
+./workspace/Dayb4election/src:
+functionTester.java
+
+./workspace/firstLab:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/firstLab/bin:
+aRRAys.class     [01;34mfirstLab[0m     RectHouse.class
+Arraytwod.class  grade.class  test1.class
+
+./workspace/firstLab/bin/firstLab:
+firstLab.class
+
+./workspace/firstLab/src:
+aRRAys.java  Arraytwod.java  [01;34mfirstLab[0m  grade.java  RectHouse.java  test1.java
+
+./workspace/firstLab/src/firstLab:
+firstLab.java
+
+./workspace/Homework:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/Homework/bin:
+Account.class         Geometry.class      StatsDemo.class
+Average.class         Mileage.class       Television.class
+AverageDriver.class   NumericTypes.class  TelevisionDemo.class
+CompactDisc.class     Song.class          test.class
+DiceSimulation.class  [01;34mStatsDemo[0m
+
+./workspace/Homework/bin/StatsDemo:
+
+./workspace/Homework/src:
+Account.java        DiceSimulation.java  Song.java            Television.java
+AverageDriver.java  Geometry.java        [01;34mStatsDemo[0m            test.java
+Average.java        Mileage.java         StatsDemo.java
+CompactDisc.java    NumericTypes.java    TelevisionDemo.java
+
+./workspace/Homework/src/StatsDemo:
+
+./workspace/Income:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/Income/bin:
+Boss.class  loops.class  studentID.class  TaxRate.class
+
+./workspace/Income/src:
+Boss.java  CorrectedInputProblem.java  loops.java  studentID.java  TaxRate.java
+
+./workspace/Lab3:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/Lab3/bin:
+PizzaOrder.class
+
+./workspace/Lab3/src:
+PizzaOrder.java
+
+./workspace/mon_17_oct:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/mon_17_oct/bin:
+Joption.class  JOptionPane.class  PZ.class
+
+./workspace/mon_17_oct/src:
+Joption.java  JOptionPane.java  PZ.java
+
+./workspace/new:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/new/bin:
+array.class   NumericTypes.class         Rect1.class      Student.class
+Honda.class   Person.class               Rectangle.class  TestArray.class
+ifelse.class  personstudenttester.class  Rectest.class    tester.class
+
+./workspace/new/src:
+array.java   NumericTypes.java         Rect1.java      Student.java
+Honda.java   Person.java               Rectangle.java  TestArray.java
+ifelse.java  personstudenttester.java  Rectest.java    tester.java
+
+./workspace/Oct10:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/Oct10/bin:
+Employee.class  food.class  October10.class
+
+./workspace/Oct10/src:
+Employee.java  food.java  October10.java
+
+./workspace/readwrite:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/readwrite/bin:
+readwrite_test.class
+
+./workspace/readwrite/src:
+readwrite_test.java
+
+./workspace/Rectangle:
+[01;34mbin[0m  [01;34msrc[0m
+
+./workspace/Rectangle/bin:
+Rect.class  Showrect.class
+
+./workspace/Rectangle/src:
+Rect.java  Showrect.java
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ exit
+Script done, file is lab4pt1.txt
+]0;ag@ag-ThinkPad-W550s: ~[01;32mag@ag-ThinkPad-W550s[00m:[01;34m~[00m$ exit
+
+Script done on Wed 01 Mar 2017 09:15:13 AM PST
